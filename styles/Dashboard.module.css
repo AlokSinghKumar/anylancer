@@ -1,0 +1,33 @@
+
+.mainContainer {
+    width        : "93%";
+    padding-left : "4%";
+    margin-top   : "1%";
+}
+
+.paper  {
+    /* padding      : theme.spacing(2), */
+    text-align    : 'center';
+    color         : "yellow";
+    height        : "100%";
+    border-radius : "30px";
+    margin        : 0;
+    box-shadow    : "0px 3px 26px #0000000D";
+}
+/*
+endButtons: {
+    padding: theme.spacing(2),
+    textAlign: "center",
+},
+
+buttonColor1: {
+    color: "#008b8b"
+},
+
+buttonColor2: {
+    backgroundColor: "#df6c4f"
+},
+
+table: {
+    overflow: "auto",
+} */
